@@ -1,3 +1,6 @@
 GET    /    404    072ms
 GET    /api/v1/on-covid-19/logs    500    030ms
 GET    /favicon.ico    404    03ms
+GET    /api/v1/on-covid-19/logs    500    04ms
+GET    /    404    02ms
+GET    /api/v1/on-covid-19    200    03ms
